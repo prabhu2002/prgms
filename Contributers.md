@@ -1,15 +1,4 @@
 
-name:Shaurya Singh
-place :Delhi
+name:PRABHU
 bio:student of B.Tech
 =======
-
-Raman Kumar
-Dhanbad,Jharkhand
-Bio: college student(CSE)
-=======
-name: Nilesh Das
-place: Raipur 
-bio: student
-
-
